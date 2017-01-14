@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.blackcj.customkeyboard;
+package com.futabooo.android.markey;
 
 import android.app.Dialog;
 import android.content.Context;

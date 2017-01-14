@@ -1,4 +1,4 @@
-package com.blackcj.customkeyboard;
+package com.futabooo.android.markey;
 
 import org.junit.Test;
 
